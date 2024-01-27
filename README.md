@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @cjhanc15
-- 👀 I’m interested in JavaScript/TypeScript, React, Swift, Java, and Python.
-- 🌱 I’m currently learning C#!
-- 💞️ I’m looking to collaborate on Web applications, Game Design, or anything Apple 😀
+# 🖖 Hello, I'm Cybyl Fine!
+- 🔍 I have projects in JavaScript/TypeScript, React, Java, and C#.
+- 📘 Currently learning Swift and Python.
+- 🤝 Keen to contribute to Web Applications, Game Design, or Apple-centric projects.
+- 🏫 Studying Software Development at Grand Canyon University, graduating in 2025.
 
 <!---
-cjhanc15/cjhanc15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+cjhanc15/cjhanc15 is a 🌟 distinctive 🌟 repository as its `README.md` is featured on my GitHub profile.
+Take a moment to view the Preview link for an overview of my contributions.
 --->
